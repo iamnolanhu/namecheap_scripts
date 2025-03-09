@@ -16,9 +16,13 @@ https://www.namecheap.com/support/api/
    credentials and configuration.
 3. Install dependencies:    ```
    pip install -r requirements.txt   ```
-4. Run the scripts:   ```
+4. Run the scripts:
+   ```
    python add_subdomain.py --domain dev.example.com --ip 8.8.8.8
-   python check_old_records.py --domain example.com   ```
+   ```
+   ```
+   python check_old_records.py --domain example.com
+   ```
 
 ## Screenshots
 
