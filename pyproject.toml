@@ -1,0 +1,10 @@
+[project]
+name = "namecheap-scripts"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12.6"
+dependencies = [
+    "python-dotenv>=1.2.2",
+    "requests>=2.33.1",
+    "tldextract>=5.3.1",
+]
