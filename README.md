@@ -1,5 +1,7 @@
 # Namecheap Scripts
 
+![Namecheap Scripts](.github/hero.png)
+
 A collection of Python scripts to manage DNS records through the Namecheap API. 
 These scripts allow you to:
 
